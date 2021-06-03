@@ -1,6 +1,6 @@
 module.exports = {
     bot: {
-        token: "XXX4Mzc1ODY4NzcwNTQ5NzYw.YEXJ6w.hm0m_K-6_RD7qCXXwrWDkGl1alE",
+        token: "ODE4Mzc1ODY4NzcwNTQ5NzYw.YEXJ6w.Easo5C95Qem8ww9HLxqC9Crf21k",
         prefix: "t//",
         owners: ["356510829920780289"],
         mongourl: "mongodb+srv://tenbotlist:Wa012855867aa@tenbot.3vf31.mongodb.net/DiscordBotList?retryWrites=true&w=majority"
