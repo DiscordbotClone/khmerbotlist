@@ -7,5 +7,5 @@
 <a>- You cannot sell it.</a>
 
 > # Demo
-<a href="https://khmerbotlist.xyz">vcodes.xyz</a>
+<a href="https://khmerbotlist.xyz">khmerbotlist.xyz</a>
 
