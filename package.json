@@ -1,7 +1,7 @@
 {
   "name": "vcodes",
   "version": "0.0.1",
-  "description": "vcodes.xyz",
+  "description": "khmerbotlist.xyz",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -58,5 +58,5 @@
     "glitch",
     "express"
   ],
-  "author": ""
+  "author": "Tentennnn#6944"
 }
