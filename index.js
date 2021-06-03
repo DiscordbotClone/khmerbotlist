@@ -129,5 +129,5 @@ client.on("guildMemberAdd", async (member) => {
 /*=======================================================================================*/
 require("./src/server.js")(client);
 require("./src/database/connect.js")(client);
-client.login(process.env.TOKEN);
+client.login(config.bot.token);
 /*=======================================================================================*/
