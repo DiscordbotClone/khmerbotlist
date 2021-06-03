@@ -1,0 +1,20 @@
+{
+  "partners": [
+    {
+      "code": "1",
+      "ownerID": "356510829920780289",
+      "icon": "https://cdn.discordapp.com/attachments/700871396540284978/849756043575558172/AgentLOGO.png",
+      "serverName": "Agentz Alpha",
+      "website": "apsarabot.xyz",
+      "description": "The right place to share your own personal codes and find the code you are looking for.."
+    },
+    {
+      "code": "2",
+      "ownerID": "627780152927059978",
+      "icon": "https://cdn.discordapp.com/attachments/700871396540284978/848908494496727050/esas.png",
+      "serverName": "ESAS MC",
+      "website": "apsarabot.xyz",
+      "description": "The right place to share your own personal codes and find the code you are looking for.."
+    }
+  ]
+}
